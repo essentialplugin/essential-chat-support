@@ -1,0 +1,1783 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Essential Chat Support\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-15 13:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9.1\n"
+"X-Domain: essential-chat-support"
+
+#: includes/ecs-functions.php:266
+msgid "404 Error Page"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:281
+#: includes/admin/metabox/contacts/post-sett-metabox.php:56
+msgid "Active"
+msgstr ""
+
+#: includes/ecs-post-types.php:65 includes/ecs-post-types.php:66
+msgid "Add New Chat Widget"
+msgstr ""
+
+#: includes/ecs-post-types.php:24 includes/ecs-post-types.php:25
+msgid "Add New Contact"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/post-sett-metabox.php:44
+msgid "Advance"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/advance-metabox.php:22
+msgid "Advance Settings"
+msgstr ""
+
+#: includes/ecs-functions.php:451
+msgid "Afghanistan (+93)"
+msgstr ""
+
+#: includes/ecs-functions.php:201
+#: includes/admin/metabox/contacts/post-sett-metabox.php:44
+msgid "Agent"
+msgstr ""
+
+#: includes/ecs-functions.php:452
+msgid "Albania (+355)"
+msgstr ""
+
+#: includes/ecs-functions.php:453
+msgid "Algeria (+213)"
+msgstr ""
+
+#: includes/ecs-functions.php:253
+msgid "All"
+msgstr ""
+
+#: includes/ecs-functions.php:267
+msgid "All Archives"
+msgstr ""
+
+#: includes/ecs-post-types.php:69
+msgid "All Chat Widgets"
+msgstr ""
+
+#: includes/ecs-post-types.php:28
+msgid "All Contacts"
+msgstr ""
+
+#: includes/ecs-functions.php:316
+msgid "All settings reset successfully."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:98
+msgid "Always Available Online"
+msgstr ""
+
+#: includes/ecs-functions.php:454
+msgid "American Samoa (+684)"
+msgstr ""
+
+#: includes/ecs-functions.php:455
+msgid "Andorra (+376)"
+msgstr ""
+
+#: includes/ecs-functions.php:456
+msgid "Angola (+244)"
+msgstr ""
+
+#: includes/ecs-functions.php:457
+msgid "Anguilla (+1264)"
+msgstr ""
+
+#: includes/ecs-functions.php:458
+msgid "Antarctica (+672)"
+msgstr ""
+
+#: includes/ecs-functions.php:459
+msgid "Antigua and Barbuda (+1268)"
+msgstr ""
+
+#: includes/ecs-functions.php:460
+msgid "Argentina (+54)"
+msgstr ""
+
+#: includes/ecs-functions.php:461
+msgid "Armenia (+374)"
+msgstr ""
+
+#: includes/ecs-functions.php:462
+msgid "Aruba (+297)"
+msgstr ""
+
+#: includes/ecs-functions.php:463
+msgid "Australia (+61)"
+msgstr ""
+
+#: includes/ecs-functions.php:464
+msgid "Austria (+43)"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:94
+msgid "Availability Status"
+msgstr ""
+
+#: includes/ecs-functions.php:465
+msgid "Azerbaijan (+994)"
+msgstr ""
+
+#: includes/ecs-functions.php:466
+msgid "Bahamas (+1242)"
+msgstr ""
+
+#: includes/ecs-functions.php:467
+msgid "Bahrain (+973)"
+msgstr ""
+
+#: includes/ecs-functions.php:468
+msgid "Bangladesh (+880)"
+msgstr ""
+
+#: includes/ecs-functions.php:469
+msgid "Barbados (+1246)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/post-sett-metabox.php:32
+msgid "Behaviour"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:37
+msgid "Behaviour Settings"
+msgstr ""
+
+#: includes/ecs-functions.php:470
+msgid "Belarus (+375)"
+msgstr ""
+
+#: includes/ecs-functions.php:471
+msgid "Belgium (+32)"
+msgstr ""
+
+#: includes/ecs-functions.php:472
+msgid "Belgium (+501)"
+msgstr ""
+
+#: includes/ecs-functions.php:473
+msgid "Benin (+229)"
+msgstr ""
+
+#: includes/ecs-functions.php:474
+msgid "Bermuda (+1441)"
+msgstr ""
+
+#: includes/ecs-functions.php:475
+msgid "Bhutan (+975)"
+msgstr ""
+
+#: includes/ecs-functions.php:476
+msgid "Bolivia (+591)"
+msgstr ""
+
+#: includes/ecs-functions.php:477
+msgid "Bosnia and Herzegovina (+387)"
+msgstr ""
+
+#: includes/ecs-functions.php:200 includes/admin/class-ecs-admin.php:332
+msgid "Both"
+msgstr ""
+
+#: includes/ecs-functions.php:478
+msgid "Botswana (+267)"
+msgstr ""
+
+#: includes/ecs-functions.php:479
+msgid "Brazil (+55)"
+msgstr ""
+
+#: includes/ecs-functions.php:480
+msgid "British Indian Ocean Territory (+246)"
+msgstr ""
+
+#: includes/ecs-functions.php:481
+msgid "British Virgin Islands (+1284)"
+msgstr ""
+
+#: includes/ecs-functions.php:482
+msgid "Brunei (+673)"
+msgstr ""
+
+#: includes/ecs-functions.php:483
+msgid "Bulgaria (+359)"
+msgstr ""
+
+#: includes/ecs-functions.php:484
+msgid "Burkina Faso (+226)"
+msgstr ""
+
+#: includes/ecs-functions.php:485
+msgid "Burundi (+257)"
+msgstr ""
+
+#: includes/ecs-functions.php:486
+msgid "Cambodia (+855)"
+msgstr ""
+
+#: includes/ecs-functions.php:487
+msgid "Cameroon (+237)"
+msgstr ""
+
+#: includes/ecs-functions.php:488
+msgid "Canada (+1)"
+msgstr ""
+
+#: includes/ecs-functions.php:489
+msgid "Cape Verde (+238)"
+msgstr ""
+
+#: includes/ecs-functions.php:490
+msgid "Cayman Islands (+1345)"
+msgstr ""
+
+#: includes/ecs-functions.php:491
+msgid "Central African Republic (+236)"
+msgstr ""
+
+#: includes/ecs-functions.php:492
+msgid "Chad (+235)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/post-sett-metabox.php:67
+msgid ""
+"Changing the Chat Widget Display Mode will enable some settings in Content "
+"and Designs tab."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:82
+msgid "Chat Title"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:81
+msgid "Chat Widget Details"
+msgstr ""
+
+#: includes/ecs-post-types.php:143
+msgid "Chat Widget draft updated."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/post-sett-metabox.php:26
+msgid ""
+"Chat Widget is disabled from plugin setting page. Kindly enable it to use it."
+msgstr ""
+
+#: includes/ecs-post-types.php:138
+msgid "Chat Widget published."
+msgstr ""
+
+#: includes/ecs-post-types.php:137
+#, php-format
+msgid "Chat Widget restored to revision from %s"
+msgstr ""
+
+#: includes/ecs-post-types.php:139
+msgid "Chat Widget saved."
+msgstr ""
+
+#: includes/ecs-post-types.php:141
+#, php-format
+msgid "Chat Widget scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/ecs-post-types.php:140
+msgid "Chat Widget submitted. "
+msgstr ""
+
+#: includes/ecs-post-types.php:133 includes/ecs-post-types.php:136
+msgid "Chat Widget updated."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:62
+msgid "Chatbox Background Color"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:57
+msgid "Chatbox Color Settings"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:71
+msgid "Chatbox Text Color"
+msgstr ""
+
+#: includes/admin/settings/woo-product-tab-settings.php:34
+msgid ""
+"Check this box to enable essential chat support tab for WooCommerce product "
+"page."
+msgstr ""
+
+#: includes/admin/settings/general-settings.php:29
+msgid "Check this checkbox to enable chatbox widget on front end."
+msgstr ""
+
+#: includes/ecs-functions.php:493
+msgid "Chile (+56)"
+msgstr ""
+
+#: includes/ecs-functions.php:494
+msgid "China (+86)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/advance-metabox.php:23
+msgid "Choose Chat Widget advance settings."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:38
+msgid "Choose Chat Widget behaviour settings."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:26
+msgid "Choose Chat Widget content settings."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:28
+msgid "Choose Chat Widget design settings."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:66
+msgid "Choose chatbox background color."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:75
+msgid "Choose chatbox text color."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:102
+msgid "Choose online agent border color."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:106
+#, php-format
+msgid ""
+"Choose particular contacts to show. Leave empty for default behaviour. You "
+"can add new contact from %shere%s."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:39
+msgid "Choose theme background color."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:48
+msgid "Choose theme text color."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:84
+msgid "Choose tooltip background color."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:93
+msgid "Choose tooltip text color."
+msgstr ""
+
+#: includes/ecs-functions.php:495
+msgid "Christmas Island (+61)"
+msgstr ""
+
+#: includes/class-ecs-script.php:86
+msgid "Click OK to reset all options. All settings will be lost!"
+msgstr ""
+
+#: includes/ecs-functions.php:496
+msgid "Colombia (+57)"
+msgstr ""
+
+#: includes/ecs-functions.php:497
+msgid "Comoros (+269)"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Connect, Interact and Offer support to your customers directly as well as "
+"build trust and increase loyalty with WhatsApp from any where."
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:75
+msgid "Contact Details"
+msgstr ""
+
+#: includes/ecs-post-types.php:127
+msgid "Contact draft updated."
+msgstr ""
+
+#: includes/ecs-post-types.php:122
+msgid "Contact published."
+msgstr ""
+
+#: includes/ecs-post-types.php:121
+#, php-format
+msgid "Contact restored to revision from %s"
+msgstr ""
+
+#: includes/ecs-post-types.php:123
+msgid "Contact saved."
+msgstr ""
+
+#: includes/ecs-post-types.php:125
+#, php-format
+msgid "Contact scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:78
+msgid "Contact Shortcode"
+msgstr ""
+
+#: includes/ecs-post-types.php:124
+msgid "Contact submitted. "
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:40
+msgid "Contact Type"
+msgstr ""
+
+#: includes/ecs-post-types.php:117 includes/ecs-post-types.php:120
+msgid "Contact updated."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/post-sett-metabox.php:36
+msgid "Content"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:25
+msgid "Content Settings"
+msgstr ""
+
+#: includes/ecs-functions.php:498
+msgid "Cook Islands (+682)"
+msgstr ""
+
+#: includes/ecs-functions.php:499
+msgid "Costa Rica (+506)"
+msgstr ""
+
+#: includes/ecs-functions.php:500
+msgid "Croatia (+385)"
+msgstr ""
+
+#: includes/ecs-functions.php:501
+msgid "Cuba (+53)"
+msgstr ""
+
+#: includes/ecs-functions.php:502
+msgid "Curacao (+599)"
+msgstr ""
+
+#: includes/admin/settings/custom-css-settings.php:25
+#: includes/admin/settings/register-settings.php:33
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/custom-css-settings.php:16
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/ecs-post-types.php:119 includes/ecs-post-types.php:135
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/ecs-post-types.php:118 includes/ecs-post-types.php:134
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:105
+msgid "Custom Message"
+msgstr ""
+
+#: includes/ecs-functions.php:503
+msgid "Cyprus (+357)"
+msgstr ""
+
+#: includes/ecs-functions.php:504
+msgid "Czech Republic (+420)"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:281
+#: includes/admin/metabox/contacts/post-sett-metabox.php:57
+msgid "Deactive"
+msgstr ""
+
+#: includes/ecs-functions.php:505
+msgid "Democratic Republic of the Congo (+243)"
+msgstr ""
+
+#: includes/ecs-functions.php:506
+msgid "Denmark (+45)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/post-sett-metabox.php:40
+msgid "Design"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:27
+msgid "Design Settings"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:85
+msgid "Designation"
+msgstr ""
+
+#: includes/ecs-functions.php:232
+msgid "Desktop Only"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:249
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:60
+msgid "Display Contact Type"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:112
+msgid "Display current page ID."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:114
+msgid "Display current page slug."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:113
+msgid "Display current page title."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:115
+msgid "Display current page URL."
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:248
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:45
+msgid "Display Mode"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:250
+#: includes/admin/metabox/chat-widget/advance-metabox.php:30
+msgid "Display On"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:117
+msgid "Display product current price."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:118
+msgid "Display product regular price."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:119
+msgid "Display product sku."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/settings.php:18
+msgid "Display Rule"
+msgstr ""
+
+#: includes/admin/settings/display-rule-settings.php:21
+msgid "Display Rule Settings"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:25
+msgid "Display Rules"
+msgstr ""
+
+#: includes/ecs-functions.php:507
+msgid "Djibouti (+253)"
+msgstr ""
+
+#: includes/ecs-functions.php:508
+msgid "Dominica (+767)"
+msgstr ""
+
+#: includes/ecs-functions.php:509
+msgid "Dominican Republic (+1)"
+msgstr ""
+
+#: includes/ecs-functions.php:510
+msgid "East Timor (+670)"
+msgstr ""
+
+#: includes/ecs-functions.php:511
+msgid "Ecuador (+593)"
+msgstr ""
+
+#: includes/ecs-post-types.php:67
+msgid "Edit Chat Widget"
+msgstr ""
+
+#: includes/ecs-post-types.php:26
+msgid "Edit Contact"
+msgstr ""
+
+#: includes/ecs-functions.php:512
+msgid "Egypt (+20)"
+msgstr ""
+
+#: includes/ecs-functions.php:513
+msgid "El Salvador (+503)"
+msgstr ""
+
+#: includes/admin/settings/woo-product-tab-settings.php:30
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/settings/general-settings.php:25
+msgid "Enable Chat Widget"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:89
+msgid "Enter agent designation. e.g. Customer Support"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:86
+msgid "Enter chat title for single mode."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:50
+msgid "Enter chat widget header main title. e.g. Start a Conversation"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:59
+msgid ""
+"Enter chat widget header sub title. e.g. Hi! Click one of our members below "
+"to chat on WhatsApp"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:68
+msgid ""
+"Enter chat widget notice message. e.g. The team typically replies in a few "
+"minutes."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:41
+msgid "Enter chat widget toggle button tooltip. e.g. Need Help? Chat with us."
+msgstr ""
+
+#: includes/admin/settings/custom-css-settings.php:29
+msgid "Enter custom CSS to override plugin CSS. Sometime !important will work."
+msgstr ""
+
+#: includes/admin/settings/woo-product-tab-settings.php:43
+msgid ""
+"Enter essential chat support tab name. Default is `Essential Chat Support`."
+msgstr ""
+
+#: includes/admin/settings/woo-product-tab-settings.php:52
+msgid ""
+"Enter plugin shortcode to display. You can enter multiple shortcodes. e.g."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:149
+msgid "Enter WhatsApp group description."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:139
+msgid "Enter WhatsApp group ID."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:109
+msgid ""
+"Enter WhatsApp predefined message e.g. Hello, I have visited your site and I "
+"need help from you."
+msgstr ""
+
+#: includes/ecs-functions.php:514
+msgid "Equatorial Guinea (+240)"
+msgstr ""
+
+#: includes/ecs-functions.php:515
+msgid "Eritrea (+291)"
+msgstr ""
+
+#. Name of the plugin
+#: includes/ecs-functions.php:27
+#: includes/admin/settings/register-settings.php:120
+msgid "Essential Chat Support"
+msgstr ""
+
+#: includes/admin/settings/settings.php:25
+msgid "Essential Chat Support - Settings"
+msgstr ""
+
+#: includes/ecs-functions.php:516
+msgid "Estonia (+372)"
+msgstr ""
+
+#: includes/ecs-functions.php:517
+msgid "Ethiopia (+251)"
+msgstr ""
+
+#: includes/ecs-functions.php:231
+msgid "Every Device"
+msgstr ""
+
+#: includes/ecs-functions.php:518
+msgid "Falkland Islands (+500)"
+msgstr ""
+
+#: includes/ecs-functions.php:519
+msgid "Faroe Islands (+298)"
+msgstr ""
+
+#: includes/ecs-functions.php:520
+msgid "Fiji (+679)"
+msgstr ""
+
+#: includes/ecs-functions.php:521
+msgid "Finland (+358)"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:110
+#, php-format
+msgid "Format your messages from <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: includes/ecs-functions.php:522
+msgid "France (+33)"
+msgstr ""
+
+#: includes/ecs-functions.php:523
+msgid "French Polynesia (+689)"
+msgstr ""
+
+#: includes/ecs-functions.php:264
+msgid "Front Page"
+msgstr ""
+
+#: includes/ecs-functions.php:524
+msgid "Gabon (+241)"
+msgstr ""
+
+#: includes/ecs-functions.php:525
+msgid "Gambia (+220)"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:24
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings/general-settings.php:16
+msgid "General Settings"
+msgstr ""
+
+#: includes/ecs-functions.php:526
+msgid "Georgia (+995)"
+msgstr ""
+
+#: includes/ecs-functions.php:527
+msgid "Germany (+49)"
+msgstr ""
+
+#: includes/ecs-functions.php:528
+msgid "Ghana (+233)"
+msgstr ""
+
+#: includes/ecs-functions.php:529
+msgid "Gibraltar (+350)"
+msgstr ""
+
+#: includes/admin/settings/display-rule-settings.php:30
+msgid "Global Display"
+msgstr ""
+
+#: includes/ecs-functions.php:530
+msgid "Greece (+30)"
+msgstr ""
+
+#: includes/ecs-functions.php:531
+msgid "Greenland (+299)"
+msgstr ""
+
+#: includes/ecs-functions.php:532
+msgid "Grenada (+1473)"
+msgstr ""
+
+#: includes/ecs-functions.php:202
+#: includes/admin/metabox/contacts/post-sett-metabox.php:45
+msgid "Group"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:145
+msgid "Group Description"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:135
+msgid "Group ID"
+msgstr ""
+
+#: includes/ecs-functions.php:533
+msgid "Guam (+1)"
+msgstr ""
+
+#: includes/ecs-functions.php:534
+msgid "Guatemala (+502)"
+msgstr ""
+
+#: includes/ecs-functions.php:535
+msgid "Guernsey (+44)"
+msgstr ""
+
+#: includes/ecs-functions.php:536
+msgid "Guinea (+224)"
+msgstr ""
+
+#: includes/ecs-functions.php:537
+msgid "Guinea-Bissau (+245)"
+msgstr ""
+
+#: includes/ecs-functions.php:538
+msgid "Guyana (+592)"
+msgstr ""
+
+#: includes/ecs-functions.php:539
+msgid "Haiti (+509)"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:28
+msgid ""
+"Hello,\n"
+"I have visited your site and I need on this {title} - {url}"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:15
+msgid "Hi! Click one of our members below to chat on WhatsApp"
+msgstr ""
+
+#: includes/ecs-functions.php:540
+msgid "Honduras (+504)"
+msgstr ""
+
+#: includes/ecs-functions.php:541
+msgid "Hong Kong (+852)"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.essentialplugin.com/wordpress-plugin/essential-chat-support/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#: includes/ecs-functions.php:542
+msgid "Hungary (+36)"
+msgstr ""
+
+#: includes/ecs-functions.php:543
+msgid "Iceland (+354)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:90
+msgid "Include Contacts"
+msgstr ""
+
+#: includes/ecs-functions.php:544
+msgid "India (+91)"
+msgstr ""
+
+#: includes/ecs-functions.php:545
+msgid "Indonesia (+62)"
+msgstr ""
+
+#: includes/ecs-post-types.php:38 includes/ecs-post-types.php:79
+msgid "Insert into profile"
+msgstr ""
+
+#: includes/ecs-functions.php:546
+msgid "Iran (+98)"
+msgstr ""
+
+#: includes/ecs-functions.php:547
+msgid "Iraq (+964)"
+msgstr ""
+
+#: includes/ecs-functions.php:548
+msgid "Ireland (+353)"
+msgstr ""
+
+#: includes/ecs-functions.php:549
+msgid "Isle of Man (+44)"
+msgstr ""
+
+#: includes/ecs-functions.php:550
+msgid "Israel (+972)"
+msgstr ""
+
+#: essential-chat-support.php:184
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/ecs-functions.php:551
+msgid "Italy (+39)"
+msgstr ""
+
+#: includes/ecs-functions.php:552
+msgid "Ivory Coast (+225)"
+msgstr ""
+
+#: includes/ecs-functions.php:553
+msgid "Jamaica (+876)"
+msgstr ""
+
+#: includes/ecs-functions.php:554
+msgid "Japan (+81)"
+msgstr ""
+
+#: includes/ecs-functions.php:555
+msgid "Jersey (+44)"
+msgstr ""
+
+#: includes/ecs-functions.php:556
+msgid "Jordan (+962)"
+msgstr ""
+
+#: includes/ecs-functions.php:557
+msgid "Kazakhstan (+77)"
+msgstr ""
+
+#: includes/ecs-functions.php:558
+msgid "Kenya (+254)"
+msgstr ""
+
+#: includes/ecs-functions.php:559
+msgid "Kiribati (+686)"
+msgstr ""
+
+#: includes/ecs-functions.php:560
+msgid "Kosovo (+383)"
+msgstr ""
+
+#: includes/ecs-functions.php:561
+msgid "Kuwait (+965)"
+msgstr ""
+
+#: includes/ecs-functions.php:562
+msgid "Kyrgyzstan (+996)"
+msgstr ""
+
+#: includes/ecs-functions.php:563
+msgid "Laos (+856)"
+msgstr ""
+
+#: includes/ecs-functions.php:564
+msgid "Latvia (+371)"
+msgstr ""
+
+#: includes/ecs-functions.php:565
+msgid "Lebanon (+961)"
+msgstr ""
+
+#: includes/ecs-functions.php:217
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/ecs-functions.php:566
+msgid "Lesotho (+266)"
+msgstr ""
+
+#: includes/ecs-functions.php:567
+msgid "Liberia (+231)"
+msgstr ""
+
+#: includes/ecs-functions.php:568
+msgid "Libya (+218)"
+msgstr ""
+
+#: includes/ecs-functions.php:569
+msgid "Liechtenstein (+423)"
+msgstr ""
+
+#: includes/ecs-functions.php:570
+msgid "Lithuania (+370)"
+msgstr ""
+
+#: includes/ecs-functions.php:571
+msgid "Luxembourg (+352)"
+msgstr ""
+
+#: includes/ecs-functions.php:572
+msgid "Macau (+853)"
+msgstr ""
+
+#: includes/ecs-functions.php:573
+msgid "Macedonia (+389)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:46
+msgid "Main Title"
+msgstr ""
+
+#: includes/ecs-functions.php:574
+msgid "Malawi (+265)"
+msgstr ""
+
+#: includes/ecs-functions.php:575
+msgid "Malaysia (+60)"
+msgstr ""
+
+#: includes/ecs-functions.php:576
+msgid "Maldives (+960)"
+msgstr ""
+
+#: includes/ecs-functions.php:577
+msgid "Mali (+223)"
+msgstr ""
+
+#: includes/ecs-functions.php:578
+msgid "Malta (+356)"
+msgstr ""
+
+#: includes/ecs-functions.php:579
+msgid "Marshall Islands (+692)"
+msgstr ""
+
+#: includes/ecs-functions.php:580
+msgid "Mauritania (+222)"
+msgstr ""
+
+#: includes/ecs-functions.php:581
+msgid "Mauritius (+230)"
+msgstr ""
+
+#: includes/ecs-functions.php:582
+msgid "Mayotte (+262)"
+msgstr ""
+
+#: includes/ecs-functions.php:583
+msgid "Mexico (+52)"
+msgstr ""
+
+#: includes/ecs-functions.php:584
+msgid "Micronesia (+691)"
+msgstr ""
+
+#: includes/ecs-functions.php:233
+msgid "Mobile Only"
+msgstr ""
+
+#: includes/ecs-functions.php:585
+msgid "Moldova (+373)"
+msgstr ""
+
+#: includes/ecs-functions.php:586
+msgid "Monaco (+377)"
+msgstr ""
+
+#: includes/ecs-functions.php:587
+msgid "Mongolia (+976)"
+msgstr ""
+
+#: includes/ecs-functions.php:588
+msgid "Montenegro (+382)"
+msgstr ""
+
+#: includes/ecs-functions.php:589
+msgid "Montserrat (+1)"
+msgstr ""
+
+#: includes/ecs-functions.php:590
+msgid "Morocco (+212)"
+msgstr ""
+
+#: includes/ecs-functions.php:591
+msgid "Mozambique (+258)"
+msgstr ""
+
+#: includes/ecs-functions.php:185
+msgid "Multi Mode"
+msgstr ""
+
+#: includes/ecs-functions.php:592
+msgid "Myanmar (+95)"
+msgstr ""
+
+#: includes/ecs-functions.php:593
+msgid "Namibia (+264)"
+msgstr ""
+
+#: includes/ecs-functions.php:594
+msgid "Nauru (+674)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:17
+msgid "Need Help? Chat with us"
+msgstr ""
+
+#: includes/ecs-functions.php:595
+msgid "Nepal (+977)"
+msgstr ""
+
+#: includes/ecs-functions.php:596
+msgid "Netherlands (+31)"
+msgstr ""
+
+#: includes/ecs-functions.php:597
+msgid "Netherlands Antilles (+599)"
+msgstr ""
+
+#: includes/ecs-functions.php:598
+msgid "New Caledonia (+687)"
+msgstr ""
+
+#: includes/ecs-post-types.php:68
+msgid "New Chat Widget"
+msgstr ""
+
+#: includes/ecs-post-types.php:27
+msgid "New Contact"
+msgstr ""
+
+#: includes/ecs-functions.php:599
+msgid "New Zealand (+64)"
+msgstr ""
+
+#: includes/ecs-functions.php:600
+msgid "Nicaragua (+505)"
+msgstr ""
+
+#: includes/ecs-functions.php:601
+msgid "Niger (+227)"
+msgstr ""
+
+#: includes/ecs-functions.php:602
+msgid "Nigeria (+234)"
+msgstr ""
+
+#: includes/ecs-functions.php:603
+msgid "Niue (+683)"
+msgstr ""
+
+#: includes/ecs-post-types.php:72
+msgid "No Chat Widgets Found"
+msgstr ""
+
+#: includes/ecs-post-types.php:73
+msgid "No Chat Widgets Found in Trash"
+msgstr ""
+
+#: includes/ecs-post-types.php:31
+msgid "No Contacts Found"
+msgstr ""
+
+#: includes/ecs-post-types.php:32
+msgid "No Contacts Found in Trash"
+msgstr ""
+
+#: includes/ecs-functions.php:604
+msgid "North Korea (+850)"
+msgstr ""
+
+#: includes/ecs-functions.php:605
+msgid "Northern Mariana Islands (+1)"
+msgstr ""
+
+#: includes/ecs-functions.php:606
+msgid "Norway (+47)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:107
+msgid ""
+"Note: Lite version will display only three contacts for Multi Mode display "
+"mode."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:64
+msgid "Notice Message"
+msgstr ""
+
+#: includes/ecs-functions.php:607
+msgid "Oman (+968)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:98
+msgid "Online Agent Border Color"
+msgstr ""
+
+#: includes/ecs-functions.php:608
+msgid "Pakistan (+92)"
+msgstr ""
+
+#: includes/ecs-functions.php:609
+msgid "Palau (+680)"
+msgstr ""
+
+#: includes/ecs-functions.php:610
+msgid "Palestine (+970)"
+msgstr ""
+
+#: includes/ecs-functions.php:611
+msgid "Panama (+507)"
+msgstr ""
+
+#: includes/ecs-functions.php:612
+msgid "Papua New Guinea (+675)"
+msgstr ""
+
+#: includes/ecs-functions.php:613
+msgid "Paraguay (+595)"
+msgstr ""
+
+#: includes/ecs-functions.php:614
+msgid "Peru (+51)"
+msgstr ""
+
+#: includes/ecs-functions.php:615
+msgid "Philippines (+63)"
+msgstr ""
+
+#: includes/ecs-functions.php:616
+msgid "Pitcairn (+64)"
+msgstr ""
+
+#: includes/ecs-functions.php:617
+msgid "Poland (+48)"
+msgstr ""
+
+#: includes/ecs-functions.php:618
+msgid "Portugal (+351)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:75
+msgid "Position"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:399
+#: includes/admin/settings/display-rule-settings.php:40
+msgid "Post"
+msgstr ""
+
+#: includes/ecs-post-types.php:34 includes/ecs-post-types.php:75
+#: includes/admin/class-ecs-admin.php:233
+msgid "Profile Image"
+msgstr ""
+
+#: includes/ecs-functions.php:619
+msgid "Puerto Rico (+1)"
+msgstr ""
+
+#: includes/ecs-functions.php:620
+msgid "Qatar (+974)"
+msgstr ""
+
+#: includes/class-ecs-script.php:88
+msgid "Remove all items"
+msgstr ""
+
+#: includes/class-ecs-script.php:89
+msgid "Remove item"
+msgstr ""
+
+#: includes/ecs-post-types.php:36 includes/ecs-post-types.php:77
+msgid "Remove Profile image"
+msgstr ""
+
+#: includes/ecs-functions.php:621
+msgid "Republic of the Congo (+242)"
+msgstr ""
+
+#: includes/admin/settings/settings.php:54
+msgid "Reset All Settings"
+msgstr ""
+
+#: includes/ecs-functions.php:622
+msgid "Reunion (+262)"
+msgstr ""
+
+#: includes/ecs-functions.php:216
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/ecs-functions.php:623
+msgid "Romania (+40)"
+msgstr ""
+
+#: includes/ecs-functions.php:624
+msgid "Russia (+7)"
+msgstr ""
+
+#: includes/ecs-functions.php:625
+msgid "Rwanda (+250)"
+msgstr ""
+
+#: includes/ecs-functions.php:626
+msgid "Saint Barthelemy (+590)"
+msgstr ""
+
+#: includes/ecs-functions.php:627
+msgid "Saint Helena (+290)"
+msgstr ""
+
+#: includes/ecs-functions.php:628
+msgid "Saint Kitts and Nevis (+1869)"
+msgstr ""
+
+#: includes/ecs-functions.php:629
+msgid "Saint Lucia (+1758)"
+msgstr ""
+
+#: includes/ecs-functions.php:630
+msgid "Saint Martin (+590)"
+msgstr ""
+
+#: includes/ecs-functions.php:631
+msgid "Saint Pierre and Miquelon (+508)"
+msgstr ""
+
+#: includes/ecs-functions.php:632
+msgid "Saint Vincent and the Grenadines (+1784)"
+msgstr ""
+
+#: includes/ecs-functions.php:633
+msgid "Samoa (+685)"
+msgstr ""
+
+#: includes/ecs-functions.php:634
+msgid "San Marino (+378)"
+msgstr ""
+
+#: includes/ecs-functions.php:635
+msgid "Sao Tome and Principe (+239)"
+msgstr ""
+
+#: includes/ecs-functions.php:636
+msgid "Saudi Arabia (+966)"
+msgstr ""
+
+#: includes/admin/settings/custom-css-settings.php:34
+#: includes/admin/settings/display-rule-settings.php:61
+#: includes/admin/settings/general-settings.php:34
+#: includes/admin/settings/settings.php:62
+#: includes/admin/settings/woo-product-tab-settings.php:57
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/display-rule-settings.php:45
+msgid "Search Chat Widget"
+msgstr ""
+
+#: includes/ecs-post-types.php:71
+msgid "Search Chat Widgets"
+msgstr ""
+
+#: includes/ecs-post-types.php:30
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:93
+msgid "Search Contacts"
+msgstr ""
+
+#: includes/class-ecs-script.php:87
+msgid "Search popup by its name or ID"
+msgstr ""
+
+#: includes/ecs-functions.php:265
+msgid "Search Results"
+msgstr ""
+
+#: includes/class-ecs-script.php:90
+msgid "Searching…"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:100
+msgid "Select agent availability status."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/advance-metabox.php:40
+msgid "Select chat widget device visibility."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:55
+msgid "Select chat widget display mode."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:70
+msgid "Select chat widget display type."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/behaviour-metabox.php:85
+msgid "Select chat widget position."
+msgstr ""
+
+#: includes/admin/settings/display-rule-settings.php:56
+msgid "Select chat widget to display on various locations."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:59
+msgid "Select contact status."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:47
+msgid "Select contact type."
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:72
+msgid "Select Country Code"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:80
+msgid "Select country code and enter WhatsApp number."
+msgstr ""
+
+#: includes/ecs-functions.php:637
+msgid "Senegal (+221)"
+msgstr ""
+
+#: includes/ecs-functions.php:638
+msgid "Serbia (+381)"
+msgstr ""
+
+#: includes/ecs-post-types.php:35 includes/ecs-post-types.php:76
+msgid "Set Profile image"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:55
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:55
+msgid "Settings - Essential Chat Support"
+msgstr ""
+
+#: includes/ecs-functions.php:639
+msgid "Seychelles (+248)"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:234
+#: includes/admin/settings/woo-product-tab-settings.php:48
+msgid "Shortcode"
+msgstr ""
+
+#: includes/ecs-functions.php:640
+msgid "Sierra Leone (+232)"
+msgstr ""
+
+#: includes/ecs-functions.php:641
+msgid "Singapore (+65)"
+msgstr ""
+
+#: includes/ecs-functions.php:186
+msgid "Single Mode"
+msgstr ""
+
+#: includes/ecs-functions.php:642
+msgid "Sint Maarten (+599)"
+msgstr ""
+
+#: includes/ecs-functions.php:643
+msgid "Slovakia (+421)"
+msgstr ""
+
+#: includes/ecs-functions.php:644
+msgid "Solomon Islands (+677)"
+msgstr ""
+
+#: includes/ecs-functions.php:645
+msgid "Somalia (+252)"
+msgstr ""
+
+#: includes/ecs-functions.php:323
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/ecs-functions.php:646
+msgid "South Africa (+27)"
+msgstr ""
+
+#: includes/ecs-functions.php:647
+msgid "South Korea (+82)"
+msgstr ""
+
+#: includes/ecs-functions.php:648
+msgid "South Sudan (+211)"
+msgstr ""
+
+#: includes/ecs-functions.php:649
+msgid "Spain (+34)"
+msgstr ""
+
+#: includes/ecs-functions.php:650
+msgid "Sri Lanka (+94)"
+msgstr ""
+
+#: includes/class-ecs-public.php:114 includes/admin/class-ecs-admin.php:198
+#: includes/admin/metabox/chat-widget/content-metabox.php:18
+msgid "Start a Conversation"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:232
+#: includes/admin/metabox/contacts/post-sett-metabox.php:52
+msgid "Status"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:55
+msgid "Sub Title"
+msgstr ""
+
+#: includes/ecs-functions.php:651
+msgid "Sudan (+249)"
+msgstr ""
+
+#: includes/ecs-functions.php:652
+msgid "Suriname (+597)"
+msgstr ""
+
+#: includes/ecs-functions.php:653
+msgid "Svalbard and Jan Mayen (+47)"
+msgstr ""
+
+#: includes/ecs-functions.php:654
+msgid "Swaziland (+268)"
+msgstr ""
+
+#: includes/ecs-functions.php:655
+msgid "Sweden (+46)"
+msgstr ""
+
+#: includes/ecs-functions.php:656
+msgid "Switzerland (+41)"
+msgstr ""
+
+#: includes/ecs-functions.php:657
+msgid "Syria (+963)"
+msgstr ""
+
+#: includes/admin/settings/woo-product-tab-settings.php:39
+msgid "Tab Text"
+msgstr ""
+
+#: includes/ecs-functions.php:658
+msgid "Taiwan (+886)"
+msgstr ""
+
+#: includes/ecs-functions.php:659
+msgid "Tajikistan (+992)"
+msgstr ""
+
+#: includes/ecs-functions.php:660
+msgid "Tanzania (+255)"
+msgstr ""
+
+#: includes/ecs-functions.php:661
+msgid "Thailand (+66)"
+msgstr ""
+
+#: essential-chat-support.php:183
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:16
+msgid "The team typically replies in a few minutes."
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:35
+msgid "Theme Background Color"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:44
+msgid "Theme Text Color"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/content-metabox.php:37
+msgid "Toggle Button Tooltip"
+msgstr ""
+
+#: includes/ecs-functions.php:662
+msgid "Togo (+228)"
+msgstr ""
+
+#: includes/ecs-functions.php:663
+msgid "Tokelau (+690)"
+msgstr ""
+
+#: includes/ecs-functions.php:664
+msgid "Tonga (+676)"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:80
+msgid "Tooltip Background Color"
+msgstr ""
+
+#: includes/admin/metabox/chat-widget/design-metabox.php:89
+msgid "Tooltip Text Color"
+msgstr ""
+
+#: includes/ecs-functions.php:665
+msgid "Trinidad and Tobago (+868)"
+msgstr ""
+
+#: includes/ecs-functions.php:666
+msgid "Tunisia (+216)"
+msgstr ""
+
+#: includes/ecs-functions.php:667
+msgid "Turkey (+90)"
+msgstr ""
+
+#: includes/ecs-functions.php:668
+msgid "Turkmenistan (+993)"
+msgstr ""
+
+#: includes/ecs-functions.php:669
+msgid "Turks and Caicos Islands (+1)"
+msgstr ""
+
+#: includes/ecs-functions.php:670
+msgid "Tuvalu (+688)"
+msgstr ""
+
+#: includes/admin/class-ecs-admin.php:231
+msgid "Type"
+msgstr ""
+
+#: includes/ecs-functions.php:671
+msgid "U.S. Virgin Islands (+1)"
+msgstr ""
+
+#: includes/ecs-functions.php:672
+msgid "Uganda (+256)"
+msgstr ""
+
+#: includes/ecs-functions.php:673
+msgid "Ukraine (+380)"
+msgstr ""
+
+#: includes/ecs-functions.php:674
+msgid "United Arab Emirates (+971)"
+msgstr ""
+
+#: includes/ecs-functions.php:675
+msgid "United Kingdom (+44)"
+msgstr ""
+
+#: includes/ecs-functions.php:676
+msgid "United States (+1)"
+msgstr ""
+
+#: includes/ecs-post-types.php:39 includes/ecs-post-types.php:80
+msgid "Uploaded to this profile"
+msgstr ""
+
+#: includes/ecs-functions.php:677
+msgid "Uruguay (+598)"
+msgstr ""
+
+#: includes/ecs-post-types.php:37 includes/ecs-post-types.php:78
+msgid "Use as profile image"
+msgstr ""
+
+#: includes/ecs-functions.php:678
+msgid "Uzbekistan (+998)"
+msgstr ""
+
+#: includes/ecs-functions.php:679
+msgid "Vanuatu (+678)"
+msgstr ""
+
+#: includes/ecs-functions.php:680
+msgid "Vatican (+379)"
+msgstr ""
+
+#: includes/ecs-functions.php:681
+msgid "Venezuela (+58)"
+msgstr ""
+
+#: includes/ecs-functions.php:682
+msgid "Vietnam (+84)"
+msgstr ""
+
+#: includes/ecs-post-types.php:70
+msgid "View Chat Widgets"
+msgstr ""
+
+#: includes/ecs-post-types.php:29
+msgid "View Contacts"
+msgstr ""
+
+#: includes/ecs-functions.php:683
+msgid "Wallis and Futuna (+681)"
+msgstr ""
+
+#: includes/ecs-functions.php:684
+msgid "Western Sahara (+212)"
+msgstr ""
+
+#: includes/ecs-post-types.php:40 includes/ecs-post-types.php:81
+msgid "WhatsApp Chat"
+msgstr ""
+
+#: includes/ecs-post-types.php:64
+msgid "WhatsApp Chat Widget"
+msgstr ""
+
+#: includes/ecs-post-types.php:63
+msgid "WhatsApp Chat Widgets"
+msgstr ""
+
+#: includes/ecs-post-types.php:23
+msgid "WhatsApp Contact"
+msgstr ""
+
+#: includes/ecs-post-types.php:22
+msgid "WhatsApp Contacts"
+msgstr ""
+
+#: includes/class-ecs-public.php:103 includes/admin/class-ecs-admin.php:199
+#: includes/admin/metabox/chat-widget/content-metabox.php:19
+msgid "WhatsApp Live Chat"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:69
+msgid "WhatsApp Number"
+msgstr ""
+
+#: includes/ecs-functions.php:268
+msgid "Whole Site"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:30
+msgid "WooCommerce Product Tab"
+msgstr ""
+
+#: includes/admin/settings/woo-product-tab-settings.php:21
+msgid "WooCommerce Product Tab Settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr ""
+
+#: includes/ecs-functions.php:685
+msgid "Yemen (+967)"
+msgstr ""
+
+#: includes/admin/metabox/contacts/post-sett-metabox.php:140
+#, php-format
+msgid ""
+"You can find group ID like this. Open WhatsApp Application > Navigate to "
+"Group > Get into the Group Info > Click on Invite via link > Add the suffix "
+"part of the link. Please refer this %simage%s."
+msgstr ""
+
+#: includes/ecs-functions.php:330
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: includes/ecs-functions.php:686
+msgid "Zambia (+260)"
+msgstr ""
+
+#: includes/ecs-functions.php:687
+msgid "Zimbabwe (+263)"
+msgstr ""
